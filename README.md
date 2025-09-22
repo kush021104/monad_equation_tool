@@ -30,4 +30,6 @@ This tool is useful for **students and researchers** in bioprocess engineering o
 
 ├── README.md # Documentation
 
-└── example_plot.png # Sample output
+├──example_graph.png # graph genrated
+
+└── example_description.png # output summary
