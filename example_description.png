@@ -3,9 +3,6 @@ Please provide the kinetic parameters.
 Enter the Maximum Specific Growth Rate (μ_max, e.g., 0.8): 50
 Enter the Half-Saturation Constant (K_s, e.g., 0.2): 50
 
-
-
-
 ==================================================
       Monod Equation: Growth Kinetics Analysis
 ==================================================
